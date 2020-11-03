@@ -1,0 +1,46 @@
+html,body {
+  height: 100%;
+}
+body {
+    margin: auto;
+    box-sizing: border-box;
+    background-color: burlywood;
+    font-family: 'Open Sans', sans-serif;
+    font-size:16px;
+    line-height:1.5em;
+  }
+  .div{
+    position: fixed;
+    background-color:wheat;
+  }
+  .profile {
+    border-style: solid;
+    text-align: left;
+    border-width: 0px 0px 2px 0px ;
+    margin: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+    
+ }
+ .img{
+  float: left;
+  border: none;
+  border-width: 2px;
+  box-sizing: border-box;
+  width: 150px;
+  height: auto;
+
+ }
+ .motivation{
+  
+  text-align: justify;
+  background-color:beige;
+
+ }
+ .contact{
+   text-align: justify;
+   background-color:beige;
+ }
+
+
+
